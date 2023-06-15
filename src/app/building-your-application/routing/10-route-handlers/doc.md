@@ -1,7 +1,6 @@
 ## Route Handlers
 
 ### Convention
-### Examples
 #### Supported HTTP Methods
 #### Extended NextRequest and NextResponse APIs
 ### Behavior
